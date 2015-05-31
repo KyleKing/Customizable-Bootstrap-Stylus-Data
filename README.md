@@ -1,6 +1,6 @@
 Customizable-Bootstrap-Stylus-Data
 ==================================
-> Raw bootstrap-stylus package
+> This is the not the package you are looking for. Go to Customizable-Bootstrap-Stylus
 
 This package does nothing more than providing server side access to bootstrap stylus files.
 It also adds the static font for the front-end.
