@@ -1,7 +1,7 @@
 Package.describe({
   name: "kyleking:customizable-bootstrap-stylus-data",
   summary: "Raw bootstrap-stylus package",
-  version: "4.0.5",
+  version: "4.0.6",
   git: "https://github.com/kyleking/customizable-bootstrap-stylus-data.git"
 });
 
@@ -93,7 +93,7 @@ Package.onUse(function(api) {
     'bootstrap/js/tooltip.js',
     'bootstrap/js/transition.js',
   ], 'server', {isAsset:true});
-  api.add_files([
+  api.addAssets([
     'bootstrap/fonts/glyphicons-halflings-regular.eot',
     'bootstrap/fonts/glyphicons-halflings-regular.svg',
     'bootstrap/fonts/glyphicons-halflings-regular.ttf',
